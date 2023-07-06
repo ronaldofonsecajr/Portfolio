@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,700;1,100;1,200;1,400&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+#largurasite{
+    width: 980px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+
+#topo{
+    width: 100%;
+    max-width: 980px;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    line-height: 40px;
+}
+    
+
+#menu a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 0 75px;
+}
+
+.home{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+
+#skill{
+    width: 100%;
+    height: auto;
+    margin-top: 220px;
+}
+    
+
+#projeto{
+    text-align: center;
+    margin-top: 200px;
+  
+}
+
+#contato{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.imgskill{
+    width: 0px 20px;
+}
+
+h1{
+    color: #012032;
+    text-align: center;
+}
+
+h2{
+    color: #475f6d;
+    font-size: 60pt;
+
+}
+
+h3{
+    color: #475f6d;
+    font-size: 60pt;
+
+}
+
+p{
+    text-align: center;
+}
+
+footer{
+    background-color: #475f6d;
+    height: auto;
+    text-align: center;
+
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+o{
+    color: white;
+}
